@@ -1,0 +1,1 @@
+cat readings.zip-part* > readings.zip

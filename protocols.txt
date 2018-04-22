@@ -1,0 +1,17 @@
+http
+udp
+ip
+tcp
+ssl(ssl)
+ssdp
+
+
+http contains hotstar or tcp contains hotstar or http contains akamai or tcp contains akamai
+
+http contains hotstar or udp contains hotstar or ip contains hotstar or tcp contains hotstar or ssl contains hotstar or ssdp contains hotstar
+
+or (ip matches hotstar) or (tcp matches hotstar)or (http matches hotstar)
+
+http contains hotstar or udp contains hotstar or ip contains hotstar or tcp contains hotstar or ssl contains hotstar or ssdp contains hotstar or http contains akamai or udp contains akamai or ip contains akamai or tcp contains akamai or ssl contains akamai or ssdp contains akamai
+
+http contains hotstar and udp contains hotstar and ip contains hotstar and tcp contains hotstar and ssl contains hotstar and ssdp contains hotstar and http contains akamai and udp contains akamai and ip contains akamai and tcp contains akamai and ssl contains akamai and ssdp contains akamai
